@@ -1,0 +1,53 @@
+{
+  "version": "1.0",
+  "caps": [
+    {
+      "type": "text",
+      "name": "platformName",
+      "value": "Android"
+    },
+    {
+      "type": "text",
+      "name": "appium:platformVersion",
+      "value": "13"
+    },
+    {
+      "type": "text",
+      "name": "appium:deviceName",
+      "value": "Pixel Phone"
+    },
+    {
+      "type": "text",
+      "name": "appium:app",
+      "value": "E:\\Proyectos\\Appium\\testProject\\app\\android\\ApiDemos-debug.apk"
+    },
+    {
+      "type": "text",
+      "name": "appium:automationName",
+      "value": "UiAutomator2"
+    }
+  ],
+  "server": {
+    "local": {},
+    "remote": {
+      "port": "4724"
+    },
+    "sauce": {
+      "dataCenter": "us-west-1"
+    },
+    "headspin": {},
+    "browserstack": {},
+    "lambdatest": {},
+    "advanced": {},
+    "bitbar": {},
+    "kobiton": {},
+    "perfecto": {},
+    "pcloudy": {},
+    "testingbot": {},
+    "experitest": {},
+    "roboticmobi": {},
+    "remotetestkit": {}
+  },
+  "serverType": "remote",
+  "visibleProviders": []
+}
